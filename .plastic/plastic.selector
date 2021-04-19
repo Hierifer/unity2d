@@ -1,0 +1,4 @@
+repository "New Unity Project (1)@ssl://teng-2313751@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/hierifer" 
+     
